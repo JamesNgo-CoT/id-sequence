@@ -5,5 +5,5 @@ Version 1.0.0
 ## Installation
 
 ``` console
-https://github.com/JamesNgo-CoT/id-sequence.git#1.0.0
+npm install https://github.com/JamesNgo-CoT/id-sequence.git#1.0.0
 ```
